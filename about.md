@@ -4,9 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My name is Suyasha and I am a CS major at NYU. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+My favorite character is Kermit and I think 
+recycling is very important.
 
