@@ -21,3 +21,8 @@ permalink: /contributions/
 |14|[Edit main ingredients](https://en.wikipedia.org/w/index.php?title=Sekuwa&diff=prev&oldid=839812915)|Wikipedia
 |14|[Comment on Issue 115 with potential fix](https://github.com/joannakl/cs480_s18/issues/115)|Course Website|
 |14|[Comment on Issue 114 with potential](https://github.com/joannakl/cs480_s18/issues/114)|Course Website|
+|14|[Add Thainese Fusion to OpenStreetMap](https://www.openstreetmap.org/changeset/58717657)|Other|
+|14|[Add Supercuts to OpenStreetMap](https://www.openstreetmap.org/changeset/58717657)|Other|
+|14|[Add HomeGoods to OpenStreetMap](https://www.openstreetmap.org/changeset/58717705)|Other|
+|14|[Add PetSmart to OpenStreetMap](https://www.openstreetmap.org/changeset/58717705)|Other|
+|14|[Add AFC Urgent Care to OpenStreetMap](https://www.openstreetmap.org/changeset/58717782#map=19/40.81336/-74.11990)|Other|
